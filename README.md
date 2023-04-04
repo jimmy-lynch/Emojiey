@@ -1,7 +1,7 @@
 # Emojiey
 ### By Jimmy Lynch
 
-This is a simple weather display application, utilizing OpenWeather API to draw the data. This project was done to practice using API calls and the MVVM design pattern.
+This is an emoji display information application. It includes a searchable list of emojis, when an emoji is clicked another page is displayed with more information on each emoji (tags, attributes, iOS version, etc).
 
 Key concepts utilized include:
 - Codable & Decoding a JSON file
